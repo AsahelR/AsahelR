@@ -6,4 +6,4 @@ I characterize myself for my facility for teamwork and my enthusiasm for learnin
 Looking for a job opportunity in which to gain more experience.
 
 Conocimientos
-Java, Python, Html, Css, Dart con Flutter.
+Java, Python, Html, Css, Flutter con Dart.
